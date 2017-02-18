@@ -390,24 +390,24 @@
 
     <!--PERMISSIONS-->
 
-    <string name="prompt_gps_permission">We would need access to your smartphone\’s GPS to enable location-based functionality.</string>
-    <string name="prompt_wifi_location_permission">Blynk will need your location to be able to scan the WiFi networks around. It\’s an Android OS requirement.</string>
-    <string name="prompt_ble_location_permission">Blynk will need your location to be able to scan the Bluetooth devices around. It’s an Android OS requirement.</string>
-    <string name="action_grant_permission">Grant permission</string>
+    <string name="prompt_gps_permission">我们需要使用您手机的 GPS 才能启用定位的功能。</string>
+    <string name="prompt_wifi_location_permission">Blynk 需要扫描您周围的 WiFi 网络，这是 Android 系统的要求。</string>
+    <string name="prompt_ble_location_permission">Blynk 需要扫描您周围的蓝牙设备，这是 Android 系统的要求。</string>
+    <string name="action_grant_permission">给予授权</string>
 
-    <string name="error_permission_network_state">Access Network State permission was not granted to Blynk app. It could cause abnormal work.</string>
-    <string name="error_permission_internet">Internet permission was not granted to Blynk app. It could not work without it.</string>
-    <string name="error_permission_bluetooth">Bluetooth permission was not granted to Blynk app. It could not work without it.</string>
-    <string name="error_permission_camera">Camera permission was not granted to Blynk app. This functionality could not work without it.</string>
+    <string name="error_permission_network_state">未授权 Blynk 应用程序访问当前网络状态的权限。这可能导致工作异常。</string>
+    <string name="error_permission_internet">未授权 Blynk 应用程序访问互联网的权限。这会导致功能无法使用。</string>
+    <string name="error_permission_bluetooth">未授权 Blynk 应用程序访问蓝牙的权限。这会导致功能无法使用。</string>
+    <string name="error_permission_camera">未授权 Blynk 应用程序访问相机的权限。这会导致功能无法使用。</string>
 
     <!--ENERGY & BILLING-->
 
-    <string name="title_purchase_not_inited">Billing not initialised</string>
-    <string name="title_purchase_failed">Payment failed</string>
+    <string name="title_purchase_not_inited">帐单未初始化</string>
+    <string name="title_purchase_failed">支付失败</string>
 
-    <string name="prompt_purchase_not_inited">Purchase hasn\'t been initialized.</string>
+    <string name="prompt_purchase_not_inited">购买尚未初始化</string>
     <string name="prompt_purchase_failed">Please update your Play Store and Google Services apps and try again.\nAlso in-app purchases could be not available in your country.\n\nYou could contact us if the problem still exists.</string>
-    <string name="prompt_google_services">Google Services</string>
+    <string name="prompt_google_services">Google 服务</string>
 
 
     <string name="prompt_battery_unlimited">Unlimited</string>
